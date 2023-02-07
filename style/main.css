@@ -1,0 +1,99 @@
+
+#promo{
+    height: 100%;
+        margin-top: 20px;
+}
+
+#viagens {
+    margin-top: 20px;
+    height: 100%;
+}
+
+#viagens{
+    background-color: rgba(226, 233, 247, 0.22);
+}
+
+header{
+    border-bottom: 2px solid #f2f1f1;
+}
+
+#form-contato{
+    margin-top: 30px;
+    height: 250px;
+    border-top: 2px solid #dddffa;
+}
+
+#patrocinadores{
+    border-top: 2px solid #dddffa;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    height: 30%;
+}
+
+.card{
+    margin-bottom: 24px;
+}
+
+#div-carousel > img{
+    height: 100%;
+    width: 100%;
+}
+
+#patrocinadores > img{
+    height: 100%;
+    width: 100%;
+}
+
+.card-subtitle {
+    font-weight: lighter;
+}
+
+.card-text{
+    margin-top: 20px;
+    font-weight: normal;
+}
+
+#form-contato label {
+    margin-top: 8px;
+}
+
+#form-contato button {
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+.row {
+    align-content: center;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+.btn-outline-success {
+    border: 1px solid rgba(212, 202, 202, 0.63);
+    color: black;
+}
+
+#link-footer{
+    text-decoration: none;
+    font-size: 18px;
+    color: #7f7f90;
+}
+
+#link-footer > p {
+    font-size: 18px;
+    color: #7f7f90;
+}
+
+footer{
+    border-top: 2px solid #f2f1f1;
+}
+
+.carousel-caption{
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+    color: white;
+}
